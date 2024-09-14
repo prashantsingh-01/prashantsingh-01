@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **FrontEnd Development**
 
-- 👨‍💻 All of my projects are available at [Comming Soon](Comming Soon)
+- 👨‍💻 All of my projects are available at (Comming Soon)
 
 - 💬 Ask me about **Python,Java,MySql,C/C++,MongoDB**
 
 - 📫 How to reach me **prashant.singh.d3v@gmail.com**
 
-- 📄 Know about my experiences [Fresher](Fresher)
+- 📄 Know about my experiences (Fresher)
 
 - ⚡ Fun fact **Programming Is Fun**
 
