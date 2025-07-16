@@ -1,8 +1,8 @@
 # 💫 About Me
-🔭 I’m currently working on a Video call Project using React.<br>
+🔭 I’m currently working on a Ecommerce Project using React.<br>
 👯 I’m looking to collaborate on open-source projects and React-based applications.<br>
 🤝 I’m looking for help with advanced React concepts and improving my code quality.<br>
-🌱 I’m currently learning React and modern web development practices.<br>
+🌱 I’m currently learning dev ops .<br>
 💬 Ask me about web development, React, or building full-stack applications.<br>
 ⚡ Fun fact: I'm passionate about creating user-friendly interfaces and always looking for ways to improve the UX/UI of my projects!
 
